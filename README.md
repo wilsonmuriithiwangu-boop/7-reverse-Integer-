@@ -1,5 +1,5 @@
 # LeetCode 7 - Reverse Integer
-# Author: Your Name - Student ID
+# Author: wilson muriithi
 
 class Solution:
     def reverse(self, x: int) -> int:
